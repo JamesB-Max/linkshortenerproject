@@ -1,0 +1,5 @@
+---
+name: create-instructions
+description: create instructuons for a specific layer of architecture or coding domain in the Link Shortener project. This prompt will generate a concise .md file with instructions for developers to follow when implementing features or solving problems within that context. The generated instructions will reference the project's architectural guidelines and coding standards to ensure consistency with established practices.
+---
+take the information below and generate a agent instructions .md file for it in the docs directory. If a .md filename is provided, use that, otherwise generate a appropriate filename based on the general content. Make sure the instrucations are concise and not too long. make sure to update the AGENTS.md file to reference the new instructions file and include a link to it. if no information is provided below, prompt the user to give the necessary details about the layer of architecture or coding standards to document. 
